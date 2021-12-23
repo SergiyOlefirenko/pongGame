@@ -1,2 +1,2 @@
 # pongGame
-Pong game using python turtle lib
+Pong game using pygame lib
